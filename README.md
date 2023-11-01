@@ -1,12 +1,12 @@
 # Food
-##Fruits
+## Fruits
 - Apple remove
 - Watermelon added
 ----
-##Grains
+## Grains
 - Rice present
 ----
-##Vegetables
+## Vegetables
 
 - Potato present
 - Cabbage added
