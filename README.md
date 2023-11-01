@@ -2,6 +2,7 @@
 ##Fruits
 - Apple remove
 - Watermelon added
+----
 ##Grains
 - Rice present
 ##Vegetables
